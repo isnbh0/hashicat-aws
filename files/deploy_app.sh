@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own.
+  🌀🌵🚀 ACME Corporation: Ingeniously Crafted, Unpredictably Fun. Where Every Wild Plan Takes Flight! 🚀🌵🌀
   <!-- END -->
 
   </div>
